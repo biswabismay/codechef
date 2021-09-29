@@ -1,2 +1,2 @@
-# codechef-solved
+# codechef
 Solved questions from CodeChef 
